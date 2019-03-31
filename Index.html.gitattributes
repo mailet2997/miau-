@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+	    <title> Teoria de sistemas en las organizaciones </title>
+	    <meta charset="utf-8">
+	    <meta description="Sitios web de curso de Teoria de sistemas en las	organizaciones, como curso de la escuela de Ciencias Basicas Tecnologia e Ingenieria ECBTI, de la Universidad UNAD">
+	    <link rel="stylesheet" type="text/css" href="css/normalize.css">
+	    <link rel="stylesheet" type="text/css" href="css/estilos.css">
+	    <script type="text/javascript" src="js/modernizr-custom.js"></script>
+	    <script type="text/javascript" src="js/prefixfree.min.js"></script>
+	    <script type="text/javascript" src="js/jquery-3.3.1.js"></script>
+	
+	<div>
+		<section id="baner1">
+	    		<img src="img/baner1.png">
+	    	</section>
+	</div>
+    </head>
+     <body>
+            <div>
+                <section id="Lecturas">
+                <section class="uno">
+                   Implementacion de soluciones
+                </section>
+                En la implementacion de las soluciones, debemos analizar si es preciso que lo hagamos en este momento, debemos hacer pruebas individuales nosotros mismo, usar demos para mostrar los prototipos a los usuarios de la organizacion, para que asi ellos se puedan ir familiarizando con la implementacion de la solucion, de estos demos o prototipos podemos recoger informacion valiosa para un desarrollo exitoso del software, como errores, espacios sin funcion, funciones erroneas, un correcto desempeño en los equipos, corregir cuando estos se crashean, probar el porque se desborda y deja de funcionar, es importante corregir todo en su funcionamiento antes de una implementacion final para la organizacion, para que la fase de soporte y mantenimiento sea mas exitoso.
+                </section>
+                <section id="LOGO">
+                <img src="img/logoUNAD.png">
+            </section>
+            
+            </div>
+
+        </body>
